@@ -7,5 +7,5 @@
              dest=/tmp/  
              owner=root 
              group=root 
-             mode=0666
+             mode=0777
 ...
